@@ -1,0 +1,1597 @@
+fileFormatVersion: 2
+guid: 7b12b3ffa794ba441b6ae7fee212a03e
+timeCreated: 1510844935
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_0
+    21300002: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_1
+    21300004: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_2
+    21300006: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_3
+    21300008: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_4
+    21300010: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_5
+    21300012: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_6
+    21300014: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_7
+    21300016: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_8
+    21300018: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_9
+    21300020: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_10
+    21300022: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_11
+    21300024: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_12
+    21300026: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_13
+    21300028: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_14
+    21300030: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_15
+    21300032: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_16
+    21300034: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_17
+    21300036: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_18
+    21300038: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_19
+    21300040: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_20
+    21300042: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_21
+    21300044: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_22
+    21300046: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_23
+    21300048: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_24
+    21300050: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_25
+    21300052: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_26
+    21300054: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_27
+    21300056: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_28
+    21300058: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_29
+    21300060: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_30
+    21300062: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_31
+    21300064: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_32
+    21300066: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_33
+    21300068: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_34
+    21300070: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_35
+    21300072: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_36
+    21300074: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_37
+    21300076: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_38
+    21300078: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_39
+    21300080: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_40
+    21300082: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_41
+    21300084: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_42
+    21300086: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_43
+    21300088: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_44
+    21300090: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_45
+    21300092: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_46
+    21300094: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_47
+    21300096: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_48
+    21300098: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_49
+    21300100: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_50
+    21300102: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_51
+    21300104: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_52
+    21300106: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_53
+    21300108: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_54
+    21300110: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_55
+    21300112: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_56
+    21300114: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_57
+    21300116: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_58
+    21300118: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_59
+    21300120: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_60
+    21300122: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_61
+    21300124: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_62
+    21300126: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_63
+    21300128: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_64
+    21300130: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_65
+    21300132: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_66
+    21300134: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_67
+    21300136: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_68
+    21300138: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_69
+    21300140: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_70
+    21300142: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_71
+    21300144: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_72
+    21300146: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_73
+    21300148: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_74
+    21300150: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_75
+    21300152: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_76
+    21300154: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_77
+    21300156: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_78
+    21300158: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_79
+    21300160: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_80
+    21300162: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_81
+    21300164: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_82
+    21300166: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_83
+    21300168: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_84
+    21300170: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_85
+    21300172: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_86
+    21300174: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_87
+    21300176: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_88
+    21300178: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_89
+    21300180: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_90
+    21300182: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_91
+    21300184: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_92
+    21300186: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_93
+    21300188: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_94
+    21300190: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_95
+    21300192: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_96
+    21300194: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_97
+    21300196: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_98
+    21300198: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_99
+    21300200: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_100
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 809
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 809
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 809
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 809
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 807
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 804
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 802
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 800
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_8
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 799
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_9
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 804
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 806
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_11
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 804
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_12
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 803
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_13
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 800
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_14
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 801
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_15
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 802
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 694
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 693
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 694
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_19
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 692
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_20
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 694
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_21
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 689
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 689
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_23
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 689
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_24
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 691
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_25
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 693
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_26
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 690
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_27
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 690
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_28
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 688
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_29
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 688
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_30
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 688
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 576
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 578
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 578
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 578
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_35
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 578
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_36
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 578
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 464
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 465
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 465
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_40
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 466
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_41
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 466
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_42
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 466
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_43
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 468
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_44
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 469
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_45
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 466
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_46
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 464
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_47
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 464
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_48
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 465
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_49
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 465
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_50
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 466
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 346
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 346
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_53
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 346
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_54
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 346
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_55
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 348
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_56
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 347
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_57
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 345
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_58
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 345
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_59
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 345
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_60
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 347
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_61
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 349
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_62
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 348
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_63
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 347
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_64
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 349
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_65
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 348
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_66
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 349
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_67
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 235
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 235
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 233
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_70
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 235
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_71
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 236
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_72
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 235
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_73
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 235
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_74
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 235
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_75
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 235
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 124
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_77
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 120
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_78
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 119
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_79
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 121
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_80
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 125
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_81
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 123
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_82
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 121
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_83
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 119
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_84
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 118
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_85
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 117
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_86
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 120
+        width: 53
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_87
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 123
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_88
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 123
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_89
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 6
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_90
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 10
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_91
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 8
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_92
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 7
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_93
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 7
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_94
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 4
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_95
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 13
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_96
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 12
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_97
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 8
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_98
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_99
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 48
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Cuphead Overworld_100
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 50
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
