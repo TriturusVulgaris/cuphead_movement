@@ -22,10 +22,10 @@ public class PlayerControls : MonoBehaviour
     public void Coins()
     {
         GameObject[] coins = GameObject.FindGameObjectsWithTag("Coin");
-        if(coins.Length == 1)
+        if(coins.Length == 0)
         {
             m_playerHaveControls = false;
-            m_animator.SetBool("Finish", true);
+            m_animator.SetBool("Jump", true);
         }
     }
 
@@ -50,6 +50,7 @@ public class PlayerControls : MonoBehaviour
             UpdateBuffer();
             UpdateAnimator();
             FlipSprite();
+            Coins();
         }
     }
 
@@ -61,8 +62,6 @@ public class PlayerControls : MonoBehaviour
     {
         m_movement.y = Input.GetAxisRaw("Vertical");
         m_movement.x = Input.GetAxisRaw("Horizontal");
-        m_absmovement.y = m_movement.y;
-        m_absmovement.x = m_movement.x;
     }
 
     void UpdateBuffer()
@@ -114,8 +113,7 @@ public class PlayerControls : MonoBehaviour
 
     private SpriteRenderer m_spriteRenderer;
     private Animator m_animator;
-    private Vector2 m_movement; // Recalculated Movement
-    private Vector2 m_absmovement; // Real Movement 
+    private Vector2 m_movement;
     private Vector2 m_bufmovement;
     private Vector3 m_temporaryPosition;
 
