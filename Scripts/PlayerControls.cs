@@ -4,18 +4,30 @@ using UnityEngine;
 
 [RequireComponent(typeof(SpriteRenderer))] // Ce script laché sur un objet créera automatiquement un spriterenderer et un animator dans l'objet.
 [RequireComponent(typeof(Animator))]
-[RequireComponent(typeof(Rigidbody2D))]
-public class PlayerControls : DualBehaviour
+[RequireComponent(typeof(Transform))]
+public class PlayerControls : MonoBehaviour
 {
     #region Public Members
 
+    public Transform m_transform;
     [Range(1, 10)]
     public float m_speed;
     public Vector2 m_stickTolerance;
+    public bool m_playerHaveControls;
 
     #endregion
 
     #region Public void
+
+    public void Coins()
+    {
+        GameObject[] coins = GameObject.FindGameObjectsWithTag("Coin");
+        if(coins.Length == 1)
+        {
+            m_playerHaveControls = false;
+            m_animator.SetBool("Finish", true);
+        }
+    }
 
     #endregion
 
@@ -23,22 +35,22 @@ public class PlayerControls : DualBehaviour
 
     void Awake()
     {
-        m_body = GetComponent<Rigidbody2D>();
+
+        m_transform = GetComponent<Transform>();
         m_spriteRenderer = GetComponent<SpriteRenderer>();
         m_animator = GetComponent<Animator>();
 	}
 	
 	void Update()
     {
-        GetInput();
-        UpdateBuffer();
-        UpdateAnimator();
-        FlipSprite();
-    }
-
-    void FixedUpdate()
-    {
-        MoveSprite();
+        if (m_playerHaveControls)
+        {
+            GetInput();
+            MoveSprite();
+            UpdateBuffer();
+            UpdateAnimator();
+            FlipSprite();
+        }
     }
 
     #endregion
@@ -86,9 +98,10 @@ public class PlayerControls : DualBehaviour
 
     void MoveSprite()
     {
-        m_body.velocity = m_speed * m_absmovement;
-        //var move = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
-        //transform.position += move * speed * Time.deltaTime;
+        m_temporaryPosition = m_transform.position;
+        m_temporaryPosition.x += m_movement.x * m_speed * Time.deltaTime;
+        m_temporaryPosition.y += m_movement.y * m_speed * Time.deltaTime;
+        m_transform.position = m_temporaryPosition;
     }
 
     #endregion
@@ -101,10 +114,10 @@ public class PlayerControls : DualBehaviour
 
     private SpriteRenderer m_spriteRenderer;
     private Animator m_animator;
-    private Rigidbody2D m_body;
     private Vector2 m_movement; // Recalculated Movement
     private Vector2 m_absmovement; // Real Movement 
     private Vector2 m_bufmovement;
+    private Vector3 m_temporaryPosition;
 
     #endregion
 }
