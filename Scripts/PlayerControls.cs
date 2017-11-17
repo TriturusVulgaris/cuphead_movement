@@ -102,8 +102,8 @@ public class PlayerControls : DualBehaviour
     private SpriteRenderer m_spriteRenderer;
     private Animator m_animator;
     private Rigidbody2D m_body;
-    private Vector2 m_movement;
-    private Vector2 m_absmovement;
+    private Vector2 m_movement; // Recalculated Movement
+    private Vector2 m_absmovement; // Real Movement 
     private Vector2 m_bufmovement;
 
     #endregion
